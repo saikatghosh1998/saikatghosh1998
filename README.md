@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- ![alt-text](https://tenor.com/view/programming-computer-typing-gif-7963714)
+ ![](image.jpg)
