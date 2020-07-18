@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
  ![](image2.jpg)
- <img src="https://github.com/saikatghosh1998/saikatghosh1998/blob/master/image2.jpg" width="100%">
+ <img src="https://github.com/saikatghosh1998/saikatghosh1998/blob/master/image2.jpg" width="60%">
