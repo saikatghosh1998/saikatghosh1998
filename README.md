@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
  ![](image2.jpg)
-Testing .. 
+ <img src="image2.jpg" width="60">
